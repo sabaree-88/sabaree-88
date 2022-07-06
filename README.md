@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sabaree-88
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Sabareesh
+- 👀 I’m interested in coding and web development 
 - 🌱 I’m currently learning Computer Science & Engineering (Data Science)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
