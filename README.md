@@ -1,11 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta name="viewport" content="device-width" initial-scale=1.0>
-    <title>Resume</title>
-    
-  </head>
-  <body>
+<body>
     <header>
       <div class="cont1">
       <h1 id="usr_name">Sabareesh G</h1>
