@@ -11,7 +11,7 @@
         <div class="contact">
           <h5>Conect With me..</h5>
           <p><strong><em>Mobile:</em></strong>8870388487</p>
-          <p><strong><em>Mail Id:</em></strong><a mailto:sabareesh887@gmail.com>sabareesh887@gmail.com</a></p>
+          <p><strong><em>Mail Id:</em></strong><a href="mailto:sabareesh887@gmail.com">sabareesh887@gmail.com</a></p>
           <p><strong><em>LinkedIn:</em></strong></p>
         </div>
       </div>
