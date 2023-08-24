@@ -1,5 +1,4 @@
 <body>
-    <header>
       <div class="cont1">
       <h1 id="usr_name">Sabareesh G</h1>
       <h4 id="position">Frontend Developer</h4>
@@ -15,6 +14,5 @@
           <p><strong><em>LinkedIn:</em></strong></p>
         </div>
       </div>
-    </header>
   </body>
 </html>
